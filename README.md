@@ -1,4 +1,4 @@
-# RPlease Note: Randomize Aspect Ratio has been changed to a custom script to ensure functionality. If anyone has more exp than me and is willing to help me figure out how to re-implement the ext with the accordion UI I'm open to suggestions. Claude, ChatGPT, Gemini, and Copilot all failed to help me solve it.
+# Please Note: Randomize Aspect Ratio has been changed to a custom script to ensure functionality. If anyone has more exp than me and is willing to help me figure out how to re-implement the ext with the accordion UI I'm open to suggestions. Claude, ChatGPT, Gemini, and Copilot all failed to help me solve it.
 
 
 

@@ -1,3 +1,7 @@
+# RPlease Note: Randomize Aspect Ratio has been changed to a custom script to ensure functionality. If anyone has more exp than me and is willing to help me figure out how to re-implement the ext with the accordion UI I'm open to suggestions. Claude, ChatGPT, Gemini, and Copilot all failed to help me solve it.
+
+
+
 # Randomize Aspect Ratio Custom Script for Stable Diffusion WebUI
 
 This script for the Automatic1111 Stable Diffusion WebUI allows you to generate images with randomized aspect ratios, adding variety to your output and potentially inspiring new creative directions. Personally, I use it to randomize Aspect Ratios in conjuction with dynamic prompts and my extension [Random LoRA Injector](https://github.com/ArchAngelAries/random-lora-injector) . Using both with Dynamic Prompts can create both a random and tailored generation experience for unique and random generations.

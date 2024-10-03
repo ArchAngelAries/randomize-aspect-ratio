@@ -1,6 +1,6 @@
 # Randomize Aspect Ratio Extension for Stable Diffusion WebUI
 
-This extension for the Automatic1111 Stable Diffusion WebUI allows you to generate images with randomized aspect ratios, adding variety to your output and potentially inspiring new creative directions.
+This extension for the Automatic1111 Stable Diffusion WebUI allows you to generate images with randomized aspect ratios, adding variety to your output and potentially inspiring new creative directions. Personally, I use it to randomize Aspect Ratios in conjuction with dynamic prompts and my other extension [Random LoRA Injector](https://github.com/ArchAngelAries/random-lora-injector) . Using both with Dynamic Prompts can create both a random and tailored generation experience for unique and random generations.
 
 ![Screenshot 2024-10-02 184415](https://github.com/user-attachments/assets/70640314-f0ca-44c9-a4ef-9821e1e125d4)
 

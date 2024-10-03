@@ -25,7 +25,7 @@ This script for the Automatic1111 Stable Diffusion WebUI allows you to generate 
 ## Usage
 
 1. In the Stable Diffusion WebUI, look for the "Randomize Aspect Ratio" in the custom scripts interface.
-2. Enable the extension by checking the "Enable Randomize Aspect Ratio" box.
+2. Enable the script by checking the "Enable Randomize Aspect Ratio" box.
 3. Optionally, enable "Use Prompt Recognition" to have the extension suggest aspect ratios based on keywords in your prompt.
 4. Adjust the "Minimum Short Side" and "Maximum Short Side" sliders to set your desired size range.
 5. Generate your image as usual. The script will randomly select an aspect ratio for each image in your batch.
